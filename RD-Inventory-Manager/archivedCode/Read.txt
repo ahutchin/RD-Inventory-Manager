@@ -1,0 +1,6 @@
+The content in this folder are the files from the original Vanilla HTML, CSS, and JS project.
+
+The original files are not particularly usable (or atleast I am not sure how to use them) because of React's fundamentally
+different process for handling components and elements.
+
+I am storing the old files here in case they become useful later on.
