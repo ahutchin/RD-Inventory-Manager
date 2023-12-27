@@ -1,0 +1,56 @@
+/* Navbar */
+/* navbar styling */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* logo styling */
+.logo-image {
+  width: 50px;
+  height: 50px;
+}
+
+/* hamburger button styling*/
+.hamburger-button {
+  background: none;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* 
+
+ --chatgpt code for hamburger button animations if we use span tags--
+
+Styling the lines in the hamburger icon
+.hamburger-button span {
+  width: 30px;
+  height: 3px;
+  background-color: #333;
+  margin: 6px 0;
+  display: block;
+  transition: background-color 0.3s ease-in-out;
+}
+
+Animation for the hamburger icon when clicked
+.hamburger-button.active span:nth-child(1) {
+  transform: translateY(9px) rotate(45deg);
+}
+
+.hamburger-button.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger-button.active span:nth-child(3) {
+  transform: translateY(-9px) rotate(-45deg);
+} */
