@@ -1,0 +1,3 @@
+12.27.2023
+- I want to build a super basic homepage of the RDIM application based on our Design
+- I want to add button functionality to move between pages
