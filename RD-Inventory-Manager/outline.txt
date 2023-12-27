@@ -1,3 +1,5 @@
 12.27.2023
 - I want to build a super basic homepage of the RDIM application based on our Design
 - I want to add button functionality to move between pages
+Next session:
+- I want to build the bottom bar component, and button components for moving to inventory and job list pages
